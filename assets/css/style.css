@@ -37,6 +37,7 @@ body{
     color: var(--color-light);
 }
 
-h2 strong{
+h2 strong a{
     color: var(--color-purple);
+    text-decoration: none;
 }
